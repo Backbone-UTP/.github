@@ -26,4 +26,4 @@ Estamos abiertos a nuevos miembros que compartan nuestra pasión por el software
 
 ¡No te pierdas nuestro próximo evento, el **Freedom Software Day**!
 
-![Próximo Evento](ruta/a/tu/imagen.png)
+![Próximo Evento](https://github.com/Backbone-UTP/.github/blob/main/images/sfd.png)
