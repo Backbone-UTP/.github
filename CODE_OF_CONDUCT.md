@@ -33,9 +33,8 @@ Nuestro objetivo es proporcionar una experiencia libre de acoso para todos, inde
 
 Si necesitas reportar un incidente o necesitas asistencia, por favor contacta a los organizadores:
 
-- **Jose Felipe Duarte:** jose.duarte@utp.edu.co 
-- **Nombre del Organizador:** [Cor] / [Teléfono]
-
+- **Jose Felipe :** jose.duarte@utp.edu.co 
+- **Paula Andrea:** paula.castro@utp.edu.co
 ## Agradecimientos 🙏
 
 Agradecemos a todos por ayudar a crear un evento acogedor y seguro para todos. Juntos, podemos construir una comunidad inclusiva y colaborativa.
