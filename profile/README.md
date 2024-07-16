@@ -16,11 +16,7 @@ En Backbone, creemos en la libertad del conocimiento y en el poder de la colabor
 
 Estamos abiertos a nuevos miembros que compartan nuestra pasión por el software libre y la investigación. No importa tu nivel de experiencia, siempre hay un lugar para ti en nuestra comunidad.
 
-## Proyectos Destacados 🌟
 
-- **[Proyecto A](#):** Descripción breve del proyecto A.
-- **[Proyecto B](#):** Descripción breve del proyecto B.
-- **[Proyecto C](#):** Descripción breve del proyecto C.
 
 ## Próximo Evento 📅
 
