@@ -20,8 +20,8 @@ Estamos abiertos a nuevos miembros que compartan nuestra pasión por el software
 
 ## Próximo Evento 📅
 
-¡No te pierdas nuestro próximo evento, el **Freedom Software Day**! 10 de octubre 2024
+¡No te pierdas nuestro próximo evento, el **[Freedom Software Day](https://backboneutp.com/events/software-freedom-day-2024)**! 10 de octubre 2024
 
 ![Próximo Evento](https://github.com/Backbone-UTP/.github/blob/main/images/sfd.png)
 
-https://backboneutp.com/events/software-freedom-day-2024
+
