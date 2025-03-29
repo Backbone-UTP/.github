@@ -17,11 +17,3 @@ En Backbone, creemos en la libertad del conocimiento y en el poder de la colabor
 Estamos abiertos a nuevos miembros que compartan nuestra pasión por el software libre y la investigación. No importa tu nivel de experiencia, siempre hay un lugar para ti en nuestra comunidad.
 
 
-
-## Próximo Evento 📅
-
-¡No te pierdas nuestro próximo evento, el **[Freedom Software Day](https://backboneutp.com/events/software-freedom-day-2024)**! 10 de octubre 2024
-
-![Próximo Evento](https://github.com/Backbone-UTP/.github/blob/main/images/sfd.png)
-
-
