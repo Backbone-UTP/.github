@@ -1,4 +1,4 @@
-# Código de Conducta del Freedom Software Day 🎉
+# Código de Conducta del Software Freedom Day 🎉
 
 ## Introducción 📝
 
